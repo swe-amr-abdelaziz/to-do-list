@@ -1,0 +1,10 @@
+.create-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.create-btns {
+    display: flex;
+    gap: 20px;
+}

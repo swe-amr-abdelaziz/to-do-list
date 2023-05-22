@@ -1,0 +1,10 @@
+.edit-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.edit-btns {
+    display: flex;
+    gap: 20px;
+}
